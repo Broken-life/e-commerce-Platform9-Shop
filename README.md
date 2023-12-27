@@ -1,8 +1,38 @@
-# React + Vite
+# Trabajo Final Informatorio Etapa 3
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+E-commerce
 
-Currently, two official plugins are available:
+## Tecnologías Utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Este proyecto fue desarrollado utilizando las siguientes tecnologías:
+
+- [Vite](https://vitejs.dev/)
+- [React](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+
+## Requisitos Previos
+
+Asegúrate de tener las siguientes herramientas instaladas en tu máquina antes de ejecutar el proyecto:
+
+- [Node.js](https://nodejs.org/)
+- [npm](https://www.npmjs.com/) (o [Yarn](https://yarnpkg.com/))
+
+## Instalación
+
+1. Clona este repositorio: `git clone https://github.com/tuusuario/tuproyecto.git`
+2. Navega al directorio del proyecto: `cd tuproyecto`
+3. Instala las dependencias: `npm install` (o `yarn install`)
+
+## Configuración
+
+Asegúrate de configurar adecuadamente los archivos de configuración según tus necesidades. Puedes encontrar archivos de configuración relevantes en los siguientes directorios:
+
+- `vite.config.js`: Configuración de Vite.
+- `tailwind.config.js`: Configuración de Tailwind CSS.
+
+## Uso
+
+Para iniciar el proyecto, ejecuta el siguiente comando:
+
+```bash
+npm run dev
